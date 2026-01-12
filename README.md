@@ -22,26 +22,30 @@ In an era where digital security is paramount, relying on weak passwords is a ri
 * **Frontend:** HTML5, CSS3, Bootstrap
 * **Version Control:** Git & GitHub
 
-1. **Clone โปรเจค**
+1. **Clone the repository**
 
    ```bash
+   git clone https://github.com/WuttikornFunk/Flask-Password-Generator.git
+   ```
 
-   git clone [https://github.com/Wuttikorn777/Flask-Password-Generator.git](https://github.com/Wuttikorn777/Flask-Password-Generator.git)
-
-
-
-2. **ติดตั้ง Library**
-
+2.**Navigate to the project folder**
+   
    ```bash
+   cd Flask-Password-Generator
+   ```
 
+3.**Install dependencies**
+   
+   ```bash
    pip install flask
+   ```
 
-
-
-4. **เริ่มการทำงาน**
-
+4.**Start the application**
+   
    ```bash
-
    python main.py
+   ```
+Then open your browser and visit: http://127.0.0.1:5000
 
-   เปิดบราวเซอร์ไปที่: http://127.0.0.1:5000
+
+
